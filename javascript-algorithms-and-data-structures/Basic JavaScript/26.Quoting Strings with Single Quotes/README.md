@@ -35,4 +35,4 @@ Right now, the `<a>` tag in the string uses double quotes everywhere. You will n
 
 You should remove all the backslashes (`\`).
 
-You should have two single quotes ' and four double quotes ".
+You should have two single quotes `'` and four double quotes `"`.
