@@ -2,7 +2,7 @@
 
 In JavaScript, you can store a value in a variable with the assignment operator (`=`).
 
-```javacript
+```javascript
 myVariable = 5;
 ```
 
@@ -10,7 +10,7 @@ This assigns the `Number` value `5` to `myVariable`.
 
 If there are any calculations to the right of the `=` operator, those are performed before the value is assigned to the variable on the left of the operator.
 
-```javacript
+```javascript
 var myVar;
 myVar = 5;
 ```
