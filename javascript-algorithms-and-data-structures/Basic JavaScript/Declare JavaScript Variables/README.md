@@ -10,7 +10,7 @@ Variables are similar to the x and y variables you use in mathematics, which mea
 
 We tell JavaScript to create or declare a variable by putting the keyword `var` in front of it, like so:
 
-```
+```javascript
 var ourName;
 ```
 
