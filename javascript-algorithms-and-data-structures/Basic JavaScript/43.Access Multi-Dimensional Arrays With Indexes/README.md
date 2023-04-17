@@ -26,4 +26,5 @@ Using bracket notation select an element from `myArray` such that `myData` is eq
 ## Tests
 
 `myData` should be equal to `8`.
+
 You should be using bracket notation to read the correct value from `myArray`.
