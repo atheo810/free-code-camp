@@ -1,0 +1,1 @@
+const myList = [["Silver queen", 15000],["Better", 1000],["Chitato", 2000],["Taro", 3000],["Teh Pucuk", 5000]];
