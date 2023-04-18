@@ -18,8 +18,13 @@ Add the inequality operator `!=` in the `if` statement so that the function will
 ## Tests
 
 `testNotEqual(99)` should return the string `Equal`
+
 `testNotEqual("99")` should return the string `Equal`
+
 `testNotEqual(12)` should return the string Not `Equal`
+
 `testNotEqual("12")` should return the string Not `Equal`
+
 `testNotEqual("bob")` should return the string Not `Equal`
+
 You should use the `!=` operator
