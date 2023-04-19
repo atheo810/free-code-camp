@@ -95,4 +95,6 @@ Display Links :
 
 [46.Manipulate Arrays With unshift Method](./46.Manipulate%20Arrays%20With%20unshift%20Method/)
 
+[47.Shopping List](./47.Shopping%20List/)
+
 []()
