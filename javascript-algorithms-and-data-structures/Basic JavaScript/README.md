@@ -91,75 +91,77 @@ Display Links :
 
 [44.Manipulate Arrays With push Method](./44.Manipulate%20Arrays%20With%20push%20Method/)
 
-[45.Manipulate Arrays With shift Method](./45.Manipulate%20Arrays%20With%20shift%20Method/)
+<!-- 45 -->
 
-[46.Manipulate Arrays With unshift Method](./46.Manipulate%20Arrays%20With%20unshift%20Method/)
+[46.Manipulate Arrays With shift Method](./46.Manipulate%20Arrays%20With%20shift%20Method/)
 
-[47.Shopping List](./47.Shopping%20List/)
+[47.Manipulate Arrays With unshift Method](./47.Manipulate%20Arrays%20With%20unshift%20Method/)
 
-[48.Write Reusable JavaScript with Functions](./48.Write%20Reusable%20JavaScript%20with%20Functions/)
+[48.Shopping List](./48.Shopping%20List/)
 
-[49.Passing Values to Functions with Arguments](./49.Passing%20Values%20to%20Functions%20with%20Arguments/)
+[49.Write Reusable JavaScript with Functions](./49.Write%20Reusable%20JavaScript%20with%20Functions/)
 
-[50.Return a Value from a Function with Return](./50.Return%20a%20Value%20from%20a%20Function%20with%20Return/)
+[50.Passing Values to Functions with Arguments](./50.Passing%20Values%20to%20Functions%20with%20Arguments/)
 
-[51.Global Scope and Functions](./51.Global%20Scope%20and%20Functions/)
+[51.Return a Value from a Function with Return](./51.Return%20a%20Value%20from%20a%20Function%20with%20Return/)
 
-[52.Local Scope and Functions](./52.Local%20Scope%20and%20Functions/)
+[52.Global Scope and Functions](./52.Global%20Scope%20and%20Functions/)
 
-[53.Global vs. Local Scope in Functions](./53.Global%20vs.%20Local%20Scope%20in%20Functions/)
+[53.Local Scope and Functions](./53.Local%20Scope%20and%20Functions/)
 
-[54.Understanding Undefined Value returned from a Function](./54.Understanding%20Undefined%20Value%20returned%20from%20a%20Function/)
+[54.Global vs. Local Scope in Functions](./54.Global%20vs.%20Local%20Scope%20in%20Functions/)
 
-[55.Assignment with a Returned Value](./55.Assignment%20with%20a%20Returned%20Value/)
+[55.Understanding Undefined Value returned from a Function](./55.Understanding%20Undefined%20Value%20returned%20from%20a%20Function/)
 
-[56.Stand in Line](./56.Stand%20in%20Line/)
+[56.Assignment with a Returned Value](./56.Assignment%20with%20a%20Returned%20Value/)
 
-[57.Understanding Boolean Values](./57.Understanding%20Boolean%20Values/)
+[57.Stand in Line](./57.Stand%20in%20Line/)
 
-[58.Use Conditional Logic with If Statements](./58.Use%20Conditional%20Logic%20with%20If%20Statements/)
+[58.Understanding Boolean Values](./58.Understanding%20Boolean%20Values/)
 
-[59.Comparison with the Equality Operator](./59.Comparison%20with%20the%20Equality%20Operator/)
+[59.Use Conditional Logic with If Statements](./59.Use%20Conditional%20Logic%20with%20If%20Statements/)
 
-[60.Comparison with the Strict Equality Operator](./60.Comparison%20with%20the%20Strict%20Equality%20Operator/)
+[60.Comparison with the Equality Operator](./60.Comparison%20with%20the%20Equality%20Operator/)
 
-[61.Practice comparing different values](./61.Practice%20comparing%20different%20values/)
+[61.Comparison with the Strict Equality Operator](./61.Comparison%20with%20the%20Strict%20Equality%20Operator/)
 
-[62.Comparison with the Inequality Operator](./62.Comparison%20with%20the%20Inequality%20Operator/)
+[62.Practice comparing different values](./62.Practice%20comparing%20different%20values/)
 
-[63.Comparison with the Strict Inequality Operator](./63.Comparison%20with%20the%20Strict%20Inequality%20Operator/)
+[63.Comparison with the Inequality Operator](./63.Comparison%20with%20the%20Inequality%20Operator/)
 
-[64.Comparison with the Greater Than Operator](./64.Comparison%20with%20the%20Greater%20Than%20Operator/)
+[64.Comparison with the Strict Inequality Operator](./64.Comparison%20with%20the%20Strict%20Inequality%20Operator/)
 
-[65.Comparison with the Greater Than Or Equal To Operator](./65.Comparison%20with%20the%20Greater%20Than%20Or%20Equal%20To%20Operator/)
+[65.Comparison with the Greater Than Operator](./65.Comparison%20with%20the%20Greater%20Than%20Operator/)
 
-[66.Comparison with the Less Than Operator](./66.Comparison%20with%20the%20Less%20Than%20Operator/)
+[66.Comparison with the Greater Than Or Equal To Operator](./66.Comparison%20with%20the%20Greater%20Than%20Or%20Equal%20To%20Operator/)
 
-[67.Comparison with the Less Than Or Equal To Operator](./67.Comparison%20with%20the%20Less%20Than%20Or%20Equal%20To%20Operator/)
+[67.Comparison with the Less Than Operator](./67.Comparison%20with%20the%20Less%20Than%20Operator/)
 
-[68.Comparisons with the Logical And Operator](./68.Comparisons%20with%20the%20Logical%20And%20Operator/)
+[68.Comparison with the Less Than Or Equal To Operator](./68.Comparison%20with%20the%20Less%20Than%20Or%20Equal%20To%20Operator/)
 
-[69.Comparisons with the Logical Or Operator](./69.Comparisons%20with%20the%20Logical%20Or%20Operator/)
+[69.Comparisons with the Logical And Operator](./69.Comparisons%20with%20the%20Logical%20And%20Operator/)
 
-[70.Introducing Else Statements](./70.Introducing%20Else%20Statements/)
+[70.Comparisons with the Logical Or Operator](./70.Comparisons%20with%20the%20Logical%20Or%20Operator/)
 
-[71.Introducing Else If Statements](./71.Introducing%20Else%20If%20Statements/)
+[71.Introducing Else Statements](./71.Introducing%20Else%20Statements/)
 
-[72.Logical Order in If Else Statements](./72.Logical%20Order%20in%20If%20Else%20Statements/)
+[72.Introducing Else If Statements](./72.Introducing%20Else%20If%20Statements/)
 
-[73.Chaining If Else Statements](./73.Chaining%20If%20Else%20Statements/)
+[73.Logical Order in If Else Statements](./73.Logical%20Order%20in%20If%20Else%20Statements/)
 
-[74.Golf Code](./74.Golf%20Code/)
+[74.Chaining If Else Statements](./74.Chaining%20If%20Else%20Statements/)
 
-[75.Adding a Default Option in Switch Statements](./75.Adding%20a%20Default%20Option%20in%20Switch%20Statements/)
+[75.Golf Code](./75.Golf%20Code/)
 
-[76.Multiple Identical Options in Switch Statements](./76.Multiple%20Identical%20Options%20in%20Switch%20Statements/)
+[76.Adding a Default Option in Switch Statements](./76.Adding%20a%20Default%20Option%20in%20Switch%20Statements/)
 
-[77.Replacing If Else Chains with Switch](./77.Replacing%20If%20Else%20Chains%20with%20Switch/)
+[77.Multiple Identical Options in Switch Statements](./77.Multiple%20Identical%20Options%20in%20Switch%20Statements/)
 
-[78.Returning Boolean Values from Functions](./78.Returning%20Boolean%20Values%20from%20Functions/)
+[78.Replacing If Else Chains with Switch](./78.Replacing%20If%20Else%20Chains%20with%20Switch/)
 
-[79.Return Early Pattern for Functions](./79.Return%20Early%20Pattern%20for%20Functions/)
+[79.Returning Boolean Values from Functions](./79.Returning%20Boolean%20Values%20from%20Functions/)
+
+[80.Return Early Pattern for Functions](./80.Return%20Early%20Pattern%20for%20Functions/)
 
 [81.Counting Cards](./81.Counting%20Cards/)
 
