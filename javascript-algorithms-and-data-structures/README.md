@@ -2,6 +2,6 @@
 
 answering free code camp learn
 
-[Basic JavaScript](./Basic-JavaScript)
+[Basic JavaScript](./Basic%20JavaScript)
 
 [ES6](./ES6)
