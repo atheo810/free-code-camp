@@ -10,7 +10,7 @@ The above function converts the string `007` to the integer `7`. If the first ch
 
 Use `parseInt()` in the `convertToInteger` function so it converts the input string str into an integer, and returns it.
 
-## Tests
+## Tests.
 
 `convertToInteger` should use the `parseInt()` function
 
