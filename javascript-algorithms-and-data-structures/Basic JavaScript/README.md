@@ -145,57 +145,57 @@ Display Links :
 
 [71.Introducing Else If Statements](./71.Introducing%20Else%20If%20Statements/)
 
-[]()
+[72.Logical Order in If Else Statements](./72.Logical%20Order%20in%20If%20Else%20Statements/)
 
-[]()
+[73.Chaining If Else Statements](./73.Chaining%20If%20Else%20Statements/)
 
-[]()
+[74.Golf Code](./74.Golf%20Code/)
 
-[]()
+[75.Adding a Default Option in Switch Statements](./75.Adding%20a%20Default%20Option%20in%20Switch%20Statements/)
 
-[]()
+[76.Multiple Identical Options in Switch Statements](./76.Multiple%20Identical%20Options%20in%20Switch%20Statements/)
 
-[]()
+[77.Replacing If Else Chains with Switch](./77.Replacing%20If%20Else%20Chains%20with%20Switch/)
 
-[]()
+[78.Returning Boolean Values from Functions](./78.Returning%20Boolean%20Values%20from%20Functions/)
 
-[]()
+[79.Return Early Pattern for Functions](./79.Return%20Early%20Pattern%20for%20Functions/)
 
-[]()
+[81.Counting Cards](./81.Counting%20Cards/)
 
-[]()
+[82.Build JavaScript Objects](./82.Build%20JavaScript%20Objects/)
 
-[]()
+[83.Accessing Object Properties with Dot Notation](./83.Accessing%20Object%20Properties%20with%20Dot%20Notation/)
 
-[]()
+[84.Accessing Object Properties with Bracket Notation](./84.Accessing%20Object%20Properties%20with%20Bracket%20Notation/)
 
-[]()
+[85.Accessing Object Properties with Variables](./85.Accessing%20Object%20Properties%20with%20Variables/)
 
-[]()
+[86.Updating Object Properties](./86.Updating%20Object%20Properties/)
 
-[]()
+[87.Add New Properties to a JavaScript Object](./87.Add%20New%20Properties%20to%20a%20JavaScript%20Object/)
 
-[]()
+[88.Delete Properties from a JavaScript Object](./88.Delete%20Properties%20from%20a%20JavaScript%20Object/)
 
-[]()
+[89.Using Objects for Lookups](./89.Using%20Objects%20for%20Lookups/)
 
-[]()
+[90.Testing Objects for Properties](./90.Testing%20Objects%20for%20Properties/)
 
-[]()
+[91.Manipulating Complex Objects](./91.Manipulating%20Complex%20Objects/)
 
-[]()
+[92.Accessing Nested Objects](./92.Accessing%20Nested%20Objects/)
 
-[]()
+[93.Accessing Nested Arrays](./93.Accessing%20Nested%20Arrays/)
 
-[]()
+[94.Record Collection](./94.Record%20Collection/)
 
-[]()
+[95.Iterate with JavaScript While Loops](./95.Iterate%20with%20JavaScript%20While%20Loops/)
 
-[]()
+[96.Iterate with JavaScript For Loops](./96.Iterate%20with%20JavaScript%20For%20Loops/)
 
-[]()
+[97.Iterate Odd Numbers With a For Loop](./97.Iterate%20Odd%20Numbers%20With%20a%20For%20Loop/)
 
-[]()
+[98.Count Backwards With a For Loop](./98.Count%20Backwards%20With%20a%20For%20Loop/)
 
 []()
 
