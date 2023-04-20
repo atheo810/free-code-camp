@@ -6,4 +6,4 @@ let i = 10;
 do {
   myArray.push(i);
   i++;
-} while (i < 5);
+} while (i < 11);
