@@ -91,9 +91,9 @@ Display Links :
 
 [44.Manipulate Arrays With push Method](./44.Manipulate%20Arrays%20With%20push%20Method/)
 
-<!-- 45 -->
+[44.Manipulate Arrays With push Method](./44.Manipulate%20Arrays%20With%20push%20Method/)
 
-[46.Manipulate Arrays With shift Method](./46.Manipulate%20Arrays%20With%20shift%20Method/)
+[45.Manipulate Arrays With pop Method](./45.Manipulate%20Arrays%20With%20pop%20Method/)
 
 [47.Manipulate Arrays With unshift Method](./47.Manipulate%20Arrays%20With%20unshift%20Method/)
 
@@ -199,35 +199,35 @@ Display Links :
 
 [98.Count Backwards With a For Loop](./98.Count%20Backwards%20With%20a%20For%20Loop/)
 
-[]()
+[99.Count Backwards With a For Loop](./99.Count%20Backwards%20With%20a%20For%20Loop/)
 
-[]()
+[100.Iterate Through an Array with a For Loop](./100.Iterate%20Through%20an%20Array%20with%20a%20For%20Loop/)
 
-[]()
+[101.Nesting For Loops](./101.Nesting%20For%20Loops/)
 
-[]()
+[102.Iterate with JavaScript Do...While Loops](./102.Iterate%20with%20JavaScript%20Do...While%20Loops/)
 
-[]()
+[103.Replace Loops using Recursion](./103.Replace%20Loops%20using%20Recursion/)
 
-[]()
+[104.Profile Lookup](./104.Profile%20Lookup/)
 
-[]()
+[105.Generate Random Fractions with JavaScript](./105.Generate%20Random%20Fractions%20with%20JavaScript/)
 
-[]()
+[106.Generate Random Whole Numbers with JavaScript](./106.Generate%20Random%20Whole%20Numbers%20with%20JavaScript/)
 
-[]()
+[107.Generate Random Whole Numbers within a Range](./107.Generate%20Random%20Whole%20Numbers%20within%20a%20Range/)
 
-[]()
+[108.Use the parseInt Function](./108.Use%20the%20parseInt%20Function/)
 
-[]()
+[109.Use the parseInt Function with a Radix](./109.Use%20the%20parseInt%20Function%20with%20a%20Radix/)
 
-[]()
+[110.Use the Conditional (Ternary) Operator](./110.Use%20the%20Conditional%20(Ternary)%20Operator/)
 
-[]()
+[111.Use Multiple Conditional (Ternary) Operators](./111.Use%20Multiple%20Conditional%20(Ternary)%20Operators/)
 
-[]()
+[112.Use Recursion to Create a Countdown](./112.Use%20Recursion%20to%20Create%20a%20Countdown/)
 
-[]()
+[113.Use Recursion to Create a Range of Numbers](./113.Use%20Recursion%20to%20Create%20a%20Range%20of%20Numbers/)
 
 []()
 
