@@ -29,37 +29,37 @@ Display Links :
 
 [13.Destructuring via rest elements](./13.Destructuring%20via%20rest%20elements/)
 
-[]()
+[14. Use Destructuring Assignment to Pass an Object as a Function's Parameters](./14.%20Use%20Destructuring%20Assignment%20to%20Pass%20an%20Object%20as%20a%20Function's%20Parameters/)
 
-[]()
+[15. Create Strings using Template Literals](./15.%20Create%20Strings%20using%20Template%20Literals/)
 
-[]()
+[16. Write Concise Object Literal Declarations Using Object Property Shorthand](./16.%20Write%20Concise%20Object%20Literal%20Declarations%20Using%20Object%20Property%20Shorthand/)
 
-[]()
+[17. Write Concise Declarative Functions with ES6](./17.%20Write%20Concise%20Declarative%20Functions%20with%20ES6/)
 
-[]()
+[18.  Use class Syntax to Define a Constructor Function](./18.%20%20Use%20class%20Syntax%20to%20Define%20a%20Constructor%20Function/)
 
-[]()
+[19. Use getters and setters to Control Access to an Object](./19.%20Use%20getters%20and%20setters%20to%20Control%20Access%20to%20an%20Object/)
 
-[]()
+[20. Create a Module Script](./20.%20Create%20a%20Module%20Script/)
 
-[]()
+[21. Use export to Share a Code Block](./21.%20Use%20export%20to%20Share%20a%20Code%20Block/)
 
-[]()
+[22. Reuse JavaScript Code Using import](./22.%20Reuse%20JavaScript%20Code%20Using%20import/)
 
-[]()
+[23. Use (star) to Import Everything from a File](./23.%20Use%20(star)%20to%20Import%20Everything%20from%20a%20File/)
 
-[]()
+[24. Create an Export Fallback with export default](./24.%20Create%20an%20Export%20Fallback%20with%20export%20default/)
 
-[]()
+[25. Import a Default Export](./25.%20Import%20a%20Default%20Export/)
 
-[]()
+[26. Create a JavaScript Promise](./26.%20Create%20a%20JavaScript%20Promise/)
 
-[]()
+[27. Complete a Promise with resolve and reject](./27.%20Complete%20a%20Promise%20with%20resolve%20and%20reject/)
 
-[]()
+[28. Handle a Fulfilled Promise with then](./28.%20Handle%20a%20Fulfilled%20Promise%20with%20then/)
 
-[]()
+[29.Handle a Rejected Promise with catch](./29.Handle%20a%20Rejected%20Promise%20with%20catch/)
 
 []()
 
