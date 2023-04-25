@@ -5,3 +5,7 @@ export const uppercaseString = (string) => {
 export const lowercaseString = (string) => {
   return string.toLowerCase();
 };
+
+// or
+
+// export {uppercaseString, lowercaseString}
