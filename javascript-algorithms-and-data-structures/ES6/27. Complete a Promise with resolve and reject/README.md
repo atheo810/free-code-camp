@@ -15,3 +15,8 @@ The example above uses strings for the argument of these functions, but it can r
 
 Make the promise handle success and failure. If `responseFromServer` is `true`, call the `resolve` method to successfully complete the promise. Pass `resolve` a string with the value We got the data. If `responseFromServer` is `false`, use the reject method instead and `pass it the string: Data not received.`
 
+## Tests
+
+`resolve` should be called with the expected string when the `if` condition is `true`.
+
+`reject` should be called with the expected string when the `if` condition is `false`.
