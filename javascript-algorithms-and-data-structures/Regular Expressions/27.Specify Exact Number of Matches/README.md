@@ -16,22 +16,20 @@ multipleA.test(A2);
 multipleA.test(A100);
 ```
 
-In order, the three `test` calls would return `true`, `false`, and `true`.
+In order, the three `test` calls would return `false`, `true`, and `false`.
 
-Change the regex `haRegex` to match the word `Hazzah` only when it has four or more letter `z`'s.
+Change the regex `timRegex` to match the word `Timber` only when it has four letter `m`'s.
 
 ## Tests
 
 Your regex should use curly brackets.
 
-Your regex should not match the string `Hazzah`
+Your regex should not match the string `Timber`
 
-Your regex should not match the string `Hazzzah`
+Your regex should not match the string `Timmber`
 
-Your regex should match the string `Hazzzzah`
+Your regex should not match the string `Timmmber`
 
-Your regex should match the string `Hazzzzzah`
+Your regex should match the string `Timmmmber`
 
-Your regex should match the string `Hazzzzzzah`
-
-Your regex should match the string `Hazzah` with 30 `z`'s in it.
+Your regex should not match the string `Timber` with 30 `m`'s in it.
