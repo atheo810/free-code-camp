@@ -24,8 +24,8 @@ We have defined a function, `popShift`, which takes an array as an argument and 
 
 ## Tests
 
-popShift(["challenge", "is", "not", "complete"]) should return ["challenge", "complete"]
+`popShift(["challenge", "is", "not", "complete"])` should return `["challenge", "complete"]`
 
-The popShift function should utilize the pop() method
+The `popShift` function should utilize the `pop()` method
 
-The popShift function should utilize the shift() method
+The `popShift` function should utilize the `shift()` method
